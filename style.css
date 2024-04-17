@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Titan+One&family=Titillium+Web&display=swap");
+
+*{
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Titan One", sans-serif;
+}
+
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/010/839/424/original/aesthetic-minimal-cute-pastel-pink-wallpaper-with-abstract-checkers-checkerboard-decoration-backdrop-illustration-perfect-for-wallpaper-backdrop-postcard-background-banner-vector.jpg);
+    background-size:1550px;
+}
+
+h1{
+    color:rgb(245, 85, 110);
+    font-size: 72px;
+    margin-bottom:30px;
+}
+
+.container{
+    padding-top:17%;
+}
+
+.love span{
+    color:rgb(245, 7, 110);
+}
+
+ a{
+    font-size:30px;
+    text-decoration:none;
+    padding:5px;
+    margin:5px 10px;
+    background:#eee;
+    border:3px solid rgb(240, 122, 86);
+}
+
+#yes{
+    color:rgb(247, 133, 62);
+}
+
+#no{
+    color:green;
+}
+
+img{
+    height:70px;
+    width:70px;
+}
